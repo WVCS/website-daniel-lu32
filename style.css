@@ -1,3 +1,40 @@
 body {
+  background-color: #72CCEC;
+}
+h1 {
+  color: #F1F7ED;
+  font-size: 300%;
+  text-decoration: underline;
+  text-decoration-color: #E9E36A;
+}
+p {
+  color: #F1F7ED;
+  font-size: 200%;
+}
+img {
+  width: 20%;
+  height: 20%;
+  border-style: solid;
+  border-color: #70B77E;
+}
+iframe {
+  
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  position: fixed;
+}
+li {
+  float: left;
+}
+li a {
+  padding: 40px;
+  color: #E9E36A;
+  font-family: "Monaco", Monospace;
+  text-decoration: none;
+}
 
+li a:hover {
+  background-color: #20B4E8;
 }
