@@ -12,13 +12,10 @@ p {
   font-size: 200%;
 }
 img {
-  width: 200px;
-  height: 200px;
+  width: 400px;
+  height: 400px;
   border-style: solid;
   border-color: #70B77E;
-}
-iframe {
-  
 }
 ul {
   list-style-type: none;
@@ -31,7 +28,7 @@ li {
 li a {
   padding: 40px;
   color: #E9E36A;
-  font-family: "Monaco", Monospace;
+  font-family: "Georgia", Serif;
   text-decoration: none;
 }
 
